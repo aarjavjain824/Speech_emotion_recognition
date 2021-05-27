@@ -1,0 +1,2 @@
+# Speech_emotion_recognition
+Summer_project of speech_emotion_recognition_under_BCS society, IIT kanpur
